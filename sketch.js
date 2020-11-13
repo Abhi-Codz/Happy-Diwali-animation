@@ -33,15 +33,15 @@ function draw()
     drawSprites();
 
     //Adding text for hD
-    stroke("black");
+    stroke("lime");
     textSize(25);
-    fill("white");
+    fill("lime");
     text("HAPPY DIWALI!!", 160, 490);
 
     //Adding text for AM
     stroke("black");
     textSize(15);
-    fill("turquoise");
-    text("BY-ABHINAV MISHRA", 250, 510);
+    fill("white");
+    text("FROM-ABHINAV MISHRA", 250, 510);
 
 }
